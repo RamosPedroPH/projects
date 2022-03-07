@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Resistencia
+comment1.params=
+comment1.target=void\ teste()
+comment2.params=vin\ r
+comment2.target=double[]\ Resistencia(double,\ double[])
+numComments=3
