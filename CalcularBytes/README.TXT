@@ -1,8 +1,7 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+Programa utilizado para converter bytes em KB,MB,Gb...
+Digite um número e o programa simplificará para as maiores medidas
+Exemplo: 2000 -> 1 KB
+                 976 B
 
 TITULO DO PROJETO:
 OBJETIVO DO PROJETO:
