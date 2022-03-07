@@ -1,2 +1,2 @@
-Programa utilizado para realizar uma contagem
-Digite o tempo desejado e ele contará até o fim
+Program to count to a determined value
+Uses java.util.Calendar to get the system time
