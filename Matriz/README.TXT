@@ -1,1 +1,1 @@
-Programa para formar uma palavra com as letras diagonal de uma matriz de palavras
+Program to make a new word using the letters of a words matrix
