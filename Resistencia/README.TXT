@@ -1,1 +1,1 @@
-Programa para calculo de tensão em um circuito de resistores em série
+Program to calcule the output voltage of a series circuit in each resistor
