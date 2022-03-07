@@ -1,4 +1,4 @@
-Programa utilizado para converter bytes em KB,MB,Gb...
-Digite um número e o programa simplificará para as maiores medidas
-Exemplo: 2000 -> 1 KB
+Program to convert bytes to KB,MB,GB...
+Digit a number and the program will convert it to the biggest possible metric unity
+Example: 2000 -> 1 KB
                  976 B
